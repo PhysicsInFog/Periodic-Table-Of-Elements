@@ -3,4 +3,5 @@ Draw Periodic Table Of Elements Image with Python
 
 ```
 pip install pillow
-python main.py```
+python main.py
+```
