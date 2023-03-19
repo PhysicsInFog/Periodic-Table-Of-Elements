@@ -2,5 +2,5 @@
 Draw Periodic Table Of Elements Image with Python
 
 `pip install pillow`
-</dr>
+<\dr>
 `python main.py`
