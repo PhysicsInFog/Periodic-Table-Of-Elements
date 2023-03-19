@@ -1,0 +1,13 @@
+{
+    "actinoid": "#c686cc",
+    "alkali-metal": "#ecbe59",
+    "alkaline-earth-metal": "#dee955",
+    "background": "#101318",
+    "lanthanoid": "#ec77a3",
+    "metalloid": "#3aefb6",
+    "noble-gas": "#759fff",
+    "other-nonmetal": "#52ee61",
+    "post-transition-metal": "#4cddf3",
+    "transition-metal": "#fd8572",
+    "unknown": "#cccccc"
+}
